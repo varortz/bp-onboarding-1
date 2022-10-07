@@ -108,6 +108,27 @@
   margin-left: 0.5rem;
 }
 
+.manualBtns {
+  display: flex;
+  justify-content: center;
+
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin: 25%;
+  
+}
+
+.counter {
+  display: flex;
+  justify-content: center;
+  color: lightskyblue;
+  font-size: 35px;
+  padding: 30px;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
